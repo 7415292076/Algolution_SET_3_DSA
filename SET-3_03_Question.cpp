@@ -13,7 +13,9 @@ Output: 10 10 10 15 15 90 90
 Explanation: Maximum of first 4 elements is 10, similarly for next 4
 elements (i.e from index 1 to 4) is 10, So the sequence
 generated is 10 10 10 15 15 90 90
-Input: arr[] = {20, 10,
+Input: arr[] = {20, 10,30}, K = 1
+Output: 20 10 30
+
 */
 
 #include <iostream>
